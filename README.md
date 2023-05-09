@@ -1,12 +1,7 @@
-# BigData_FinalProject
-Changes in World Happiness
+# Overlooked Happiness
+Written by Zad Khan and Harrison Smith
 
-Sources used:
-
-COVID Deaths: https://github.com/owid/covid-19-data/blob/master/public/data/cases_deaths/biweekly_deaths_per_million.csv
-World Happiness Data: https://worldhappiness.report/
-OECD Stats: https://stats.oecd.org/
+In this project, we delve into the territory of happiness by examining the correlation between three variables — COVID-19 death rates, broadband access, and work life balance — and a country’s overall happiness. Our goal is to uncover new insights into the complex landscape of global happiness and shed light on these often “overlooked” factors that may be quietly shaping a country’s happiness.
 
 Check out our article on this topic here: https://medium.com/@zakh_54989/correlation-to-world-happiness-1bc310990b97
 
-Zad Khan and Harrison Smith
